@@ -9,7 +9,7 @@ project_name  = "project4"
 list_of_files = [
                     
                     f"src/{project_name}/__init__.py",
-                    f"src/{project_name}/component/data_ingestion.py",
+                    f"src/{project_name}/component/data_gitingestion.py",
                     f"src/{project_name}/component/data_transformation.py",
                     f"src/{project_name}/component/model_trainer.py",
                     f"src/{project_name}/component/model_monitoring.py",
